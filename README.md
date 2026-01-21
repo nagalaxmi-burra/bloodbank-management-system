@@ -3,17 +3,22 @@
 
 ---
 ## Screenshots
-### Homepage
-![homepage snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/homepage.png?raw=true)
+
+### Home Page
+![Home Page](images/home.png)
+
+### Patient Login
+![Patient Login](images/patient_login.png)
+
+### Donor Login
+![Donor Login](images/donor_login.png)
+
+### Admin Login
+![Admin Login](images/admin_login.png)
+
 ### Admin Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/admindashboard.png?raw=true)
-### Blood Donation 
-![invoice snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/blooddonation.png?raw=true)
-### Blood Request
-![doctor snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/bloodrequest.png?raw=true)
-### Logout
-![doctor snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/logout.png?raw=true)
----
+![Admin Dashboard](images/dashboard.png)
+
 ## Functions
 
 ### Admin
